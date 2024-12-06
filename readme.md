@@ -1,7 +1,9 @@
-# Argus Web App 🚗👀
+# [Argus Web App 🚗👀](https://cveproject-arguswebapp.streamlit.app/)
 
 ## Overview
-**Argus Web App** is a Streamlit-based web application designed for vehicle damage detection and time estimation. Users can upload images of car damage, and the app provides insights into dents, scratches, tire issues, and windshield damage. Each detection type is powered by dedicated image processing algorithms.
+**[Argus Web App 🚗👀](https://cveproject-arguswebapp.streamlit.app/)** is a Streamlit-based web application designed for vehicle damage detection and time estimation. Users can upload images of car damage, and the app provides insights into dents, scratches, tire issues, and windshield damage. Each detection type is powered by dedicated image processing algorithms.
+
+The application is deployed and accessible at **https://cveproject-arguswebapp.streamlit.app/**.
 
 ---
 
